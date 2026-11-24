@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ismail 👋
 
-<!--
-**ismail-elhajjy/ismail-elhajjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a web development enthusiast from Casablanca, Morocco, passionate about building web applications and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Currently learning React and improving my JavaScript skills.
+- 💻 Interested in Full-Stack Web Development.
+- 🚀 Building projects to improve my problem-solving skills.
+- 🎯 Working towards becoming a professional Full-Stack Developer.
+
+### 🛠️ Technologies & Tools
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- React (Learning)
+
+**Backend**
+- PHP
+- Laravel
+
+**Database**
+- MySQL
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+### 📫 Connect With Me
+
+- LinkedIn: [Ismail Elhajjy](https://www.linkedin.com/in/elhajjy-ismail-192)
+- GitHub: [ismail-elhajjy](https://github.com/ismail-elhajjy)
