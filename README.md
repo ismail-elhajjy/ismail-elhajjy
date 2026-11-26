@@ -42,7 +42,7 @@
 |---|---|---|
 | [AtlasAds](https://github.com/ismail-elhajjy/PFF) | Outdoor Billboard Reservation Platform | React, Laravel |
 | [Todo List](https://github.com/ismail-elhajjy/todo-list) | Task management application | JavaScript |
-| [Task Manager](https://github.com/ismail-elhajjy/task-manager-systhem) | Task management project | React, Laravel |
+
 
 ### 📊 GitHub Statistics
 
