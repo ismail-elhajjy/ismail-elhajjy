@@ -1,69 +1,113 @@
-<h1 align="center">Hi, I'm Ismail Elhajjy 👋</h1>
+<div align="center">
 
-<h3 align="center">Aspiring Full-Stack Developer | Morocco 🇲🇦</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=200&section=header&text=Ismail%20Elhajjy&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20in%20Progress&descAlignY=58&descSize=17" width="100%" />
 
-<p align="center">
-  Passionate about web development, building practical projects, and continuously improving my programming skills.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;Building+Web+Applications;Learning+%7C+Building+%7C+Improving;Turning+Ideas+Into+Code" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ismail-elhajjy&label=Profile%20Views&color=2563eb&style=flat" />
+  <img src="https://img.shields.io/github/followers/ismail-elhajjy?label=Followers&style=flat&color=2563eb" />
 </p>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently improving my skills in JavaScript and React.
-- 💻 Interested in building modern full-stack web applications.
-- 🔧 Exploring backend development with PHP and Laravel.
-- 🚀 Learning through hands-on projects and problem-solving.
-- 🎯 Working towards becoming a professional Full-Stack Developer.
+```javascript
+const ismail = {
+    name: "Ismail Elhajjy",
+    location: "Morocco 🇲🇦",
+    role: "Aspiring Full-Stack Developer",
+    interests: [
+        "Web Development",
+        "Problem Solving",
+        "Building Projects"
+    ],
+    currentlyLearning: ["JavaScript", "React"],
+    backend: ["PHP", "Laravel"],
+    goal: "Become a skilled Full-Stack Developer"
+};
+```
 
-### 🛠️ Tech Stack
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-**Backend & Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-### 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [AtlasAds](https://github.com/ismail-elhajjy/PFF) | Outdoor Billboard Reservation Platform | React, Laravel |
-| [Todo List](https://github.com/ismail-elhajjy/todo-list) | Task management application | Vanilla JavaScript |
-
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismail-elhajjy&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-elhajjy&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-
-### 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/elhajjy-ismail-192">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ismail-elhajjy">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
-  </a>
-</p>
+I enjoy building practical applications, exploring new technologies, and improving my programming skills through hands-on experience.
 
 ---
 
-<p align="center">
-  <i>Keep learning. Keep building. Keep improving.</i>
-</p>
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" />
+
+### Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ismail-elhajjy/PFF">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ismail-elhajjy&repo=PFF&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/ismail-elhajjy/todo-list">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ismail-elhajjy&repo=todo-list&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ismail-elhajjy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-elhajjy&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ismail-elhajjy&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/elhajjy-ismail-192">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ismail-elhajjy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Consistency beats intensity."
+
+*Keep learning. Keep building. Keep improving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E293B,100:0F172A&height=100&section=footer" width="100%" />
+
+</div>
