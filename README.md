@@ -1,17 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=190&section=header&text=Ismail%20Elhajjy&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descSize=16&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=200&section=header&text=Ismail%20Elhajjy&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20in%20Progress&descAlignY=58&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=500&lines=Building+Ideas+Into+Reality;Learning+%7C+Building+%7C+Improving;Passionate+About+Web+Development" />
-
-<br/>
-
-<a href="https://github.com/ismail-elhajjy">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=white" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;Building+Web+Applications;Learning+%7C+Building+%7C+Improving;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </a>
-<a href="https://www.linkedin.com/in/elhajjy-ismail-192">
-<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=flat&logo=linkedin&logoColor=white" />
-</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ismail-elhajjy&label=Profile%20Views&color=2563eb&style=flat" />
+  <img src="https://img.shields.io/github/followers/ismail-elhajjy?label=Followers&style=flat&color=2563eb" />
+</p>
 
 </div>
 
@@ -19,35 +17,37 @@
 
 ## 👨‍💻 About Me
 
-I'm Ismail, an aspiring Full-Stack Developer from Morocco 🇲🇦.
+```javascript
+const ismail = {
+    name: "Ismail Elhajjy",
+    location: "Morocco 🇲🇦",
+    role: "Aspiring Full-Stack Developer",
+    interests: [
+        "Web Development",
+        "Problem Solving",
+        "Building Projects"
+    ],
+    currentlyLearning: ["JavaScript", "React"],
+    backend: ["PHP", "Laravel"],
+    goal: "Become a skilled Full-Stack Developer"
+};
+```
 
-I enjoy creating web applications, solving programming problems, and continuously improving my development skills.
-
-- 🌱 Currently focusing on JavaScript and React.
-- ⚙️ Exploring backend development with PHP and Laravel.
-- 💡 Interested in building practical and useful applications.
-- 🎯 Goal: Becoming a professional Full-Stack Developer.
+I enjoy building practical applications, exploring new technologies, and improving my programming skills through hands-on experience.
 
 ---
 
-## 🛠️ Technologies & Tools
+## ⚡ Tech Stack
 
 <div align="center">
 
-**Frontend**
-
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-<br/><br/>
-
-**Backend & Database**
-
+### Backend & Database
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" />
 
-<br/><br/>
-
-**Development Tools**
-
+### Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
@@ -70,15 +70,15 @@ I enjoy creating web applications, solving programming problems, and continuousl
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ismail-elhajjy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ismail-elhajjy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-elhajjy&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-elhajjy&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=ismail-elhajjy&theme=tokyonight&hide_border=true" />
 
@@ -86,24 +86,28 @@ I enjoy creating web applications, solving programming problems, and continuousl
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
 
-**Let's connect and build something great!**
-
-<br/>
-
 <a href="https://www.linkedin.com/in/elhajjy-ismail-192">
-LinkedIn
-</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/ismail-elhajjy">
-GitHub
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
+<a href="https://github.com/ismail-elhajjy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Consistency beats intensity."
 
 *Keep learning. Keep building. Keep improving.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F172A&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E293B,100:0F172A&height=100&section=footer" width="100%" />
 
 </div>
